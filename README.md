@@ -1,5 +1,4 @@
-# myrepo
-myrepo for veeam UI
+# Chorme Extensions for veeam Veeam Enterprise UI Language pack
 
 1. You need chrome.
 2. language pack unzip folder.
