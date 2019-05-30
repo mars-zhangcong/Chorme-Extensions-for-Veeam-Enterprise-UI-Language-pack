@@ -1,4 +1,4 @@
-# Chrome Extensions for veeam Veeam Enterprise UI Language pack
+# Chrome Extensions for Veeam Enterprise UI Language pack
 
 1. You need chrome.
 2. language pack unzip folder.
